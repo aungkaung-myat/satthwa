@@ -12,6 +12,7 @@ echo "Stash";
 	function morning(){
 		echo "Hi Morning";
 	}
+	echo "stash";
 
 	function stash(){
 		echo "stash";
