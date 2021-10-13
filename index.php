@@ -3,6 +3,8 @@ echo "Morning";
 
 	echo "Practice Training";
 
-	echo "Stash";
+echo "Stash";
+
+	echo "Morning function";
 
 ?>
