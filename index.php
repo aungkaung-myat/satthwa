@@ -1,5 +1,7 @@
 <?php
-	echo "Morning";
+echo "Morning";
+
+	echo "Practice Training";
 
 	echo "Stash";
 
