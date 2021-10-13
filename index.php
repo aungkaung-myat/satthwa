@@ -13,5 +13,9 @@ echo "Stash";
 		echo "Hi Morning";
 	}
 
+	function stash(){
+		echo "stash";
+	}
+
 
 ?>
